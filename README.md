@@ -21,13 +21,20 @@ A collection of source code static analysis and security auditing tools for vari
 | Larastan | Larastan is a PHPStan wrapper for laravel and focuses on finding errors in your code without actually running it. | [https://github.com/nunomaduro/larastan](https://github.com/nunomaduro/larastan) |
 | RIPS | RIPS is a static code analysis tool for the automated detection of security vulnerabilities in PHP applications. | [http://rips-scanner.sourceforge.net/](http://rips-scanner.sourceforge.net/) |
 
+## Java
 
-## Python 
-
-| **Name** | **Description** | **URL** |
+| Name | Description | URL |
 |:-:|:-:|:-:|
-| Pixee | Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes. | [https://pixee.ai] |
+| Pixee | Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes. | [https://pixee.ai](https://pixee.ai) |
+
+## Python
+
+| Name | Description | URL |
+|:-:|:-:|:-:|
+| Pixee | Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes. | [https://pixee.ai](https://pixee.ai) |
 
 # Contributions
 
-The list of available tools is in no way exhaustive. For example, there are still many popular languages like C, C++, and Java missing from the list. Feel free to contribute by adding any relevant source code auditing tools to this repository by creating a pull request.
+The list of available tools is in no way exhaustive.
+There are still many popular languages like C, C++ and Java missing from the list.
+Feel free to contribute by adding any relevant source code auditing tools to this repository by creating a pull request.
